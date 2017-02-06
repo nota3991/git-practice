@@ -1,3 +1,3 @@
-###Teaching my first github class
-and these guys are awesome!
+###Teaching Big Data Github class
+Awwwww Yeah
 I like tacos
